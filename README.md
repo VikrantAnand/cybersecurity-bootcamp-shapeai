@@ -9,8 +9,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br><br>Here's the link for you to watch the sessions as well<br>
 <li><a
 href=
-https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4>YouTu
-be</a>
+https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4>YouTube</a>
 <br>I got to have hands on experience on:
 <li>PYTHON
 <li>INTRODUCTION TO Selenium for web automation
@@ -29,7 +28,6 @@ or follow SHAPEAI on:
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
